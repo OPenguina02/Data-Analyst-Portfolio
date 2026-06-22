@@ -2,19 +2,13 @@
 
 ## Project Overview
 
-This project simulates a lending analytics environment for a fintech company operating in the consumer finance and pawn lending industry.
-
-The objective is to evaluate branch performance, compare lending products, and assess the effectiveness of network expansion strategies through an interactive Power BI dashboard supported by a fully synthetic relational dataset.
-
-The project covers the complete analytics workflow, including business understanding, synthetic data generation, data modeling, KPI design, DAX development, and dashboard construction.
+This project simulates a lending analytics environment for a fintech company operating in the consumer finance and pawn lending industry. The objective is to evaluate branch performance, compare lending products, and assess the effectiveness of network expansion strategies through an interactive Power BI dashboard supported by a fully synthetic relational dataset. The project covers the complete analytics workflow, including business understanding, synthetic data generation, data modeling, KPI design, DAX development, and dashboard construction.
 
 ---
 
 ## Business Background
 
-TrueMoney+ is a fictional fintech company specializing in consumer lending and pawn-based financing.
-
-Founded in 2022, the company has pursued aggressive growth through branch network expansion across multiple provinces. As the network grows, management faces increasing challenges in determining:
+TrueMoney+ is a fintech company specializing in consumer lending and pawn-based financing. Founded in 2022, the company has pursued aggressive growth through branch network expansion across multiple provinces. As the network grows, management faces increasing challenges in determining:
 
 * Which branches are performing most effectively
 * Which locations have untapped growth potential
@@ -82,11 +76,7 @@ The dataset contains simulated customer behavior, loan lifecycles, repayment pat
 
 ## Disclaimer
 
-This project is based on business processes and lending products commonly found in the consumer finance and pawn lending industry.
-
-All data was synthetically generated for portfolio and educational purposes. No real customer, employee, branch, transaction, or company data was used in this project.
-
-Any figures, patterns, rankings, or insights presented in the dashboard are derived entirely from simulated data and should not be interpreted as real-world business performance.
+This project is based on business processes and lending products commonly found in the consumer finance and pawn lending industry. All data was synthetically generated for portfolio and educational purposes. No real customer, employee, branch, transaction, or company data was used in this project. Any figures, patterns, rankings, or insights presented in the dashboard are derived entirely from simulated data and should not be interpreted as real-world business performance.
 
 ---
 
